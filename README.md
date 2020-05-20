@@ -1,4 +1,4 @@
-# robofriends :robots:
+# robofriends :robot:
 Project React for udemy course - React
 To run the project:
 
