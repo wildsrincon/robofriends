@@ -95,15 +95,15 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 ## Authors :busts_in_silhouette: 
-[![GitHub followers](https://img.shields.io/github/followers/Wildcox80.svg?style=social&label=wildcox80&maxAge=2592000)](https://github.com/wildcox80?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/Wildcox80.svg?style=social&label=wildcox80&maxAge=2592000)](https://github.com/wildsrincon?tab=followers)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/wildcox80/holberton-system_engineering-devops.svg?style=plastic&logo=github
-[contributors-url]: https://github.com/wildcox80/holberton-system_engineering-devops/graphs/contributors
-[license-shield]: https://img.shields.io/github/license/wildcox80/holberton-system_engineering-devops.svg?style=plastic&logo=github
-[license-url]: https://github.com/wildcox80/holberton-system_engineering-devops/blob/master/LICENSE.md
+[contributors-shield]: https://img.shields.io/github/contributors/wildsrincon/holberton-system_engineering-devops.svg?style=plastic&logo=github
+[contributors-url]: https://github.com/wildsrincon/holberton-system_engineering-devops/graphs/contributors
+[license-shield]: https://img.shields.io/github/license/wildsrincon/holberton-system_engineering-devops.svg?style=plastic&logo=github
+[license-url]: https://github.com/wildsrincon/holberton-system_engineering-devops/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/wildsrincon
 [github-shield]: https://img.shields.io/badge/github/followers/:user?label=Follow
-[linkedin-url]: https://www.github.com/wildcox80
+[linkedin-url]: https://www.linkedin.com/in/wildsrincon
